@@ -1,1 +1,1 @@
-estos son los grafico considerando que varia la geometria, el punto de impacto , el angulo de impacto
+estos son los gráfico considerando que varia la geometría, el punto de impacto , el angulo de impacto. Se mantuvo la energía en 2.6eV. Tambien se inicio variando pero no se modificaron los resultados. Luego solo se considero 2.6eV.
